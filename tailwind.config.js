@@ -15,7 +15,7 @@ export default {
       "main": "#fafbff",
       "slider-empty-color": "#eaeefb",
       "toggle": "#cdd7ee",
-      "text-color": "#858fad",
+      "txt-color": "#858fad",
       "cta": "#293356",
     },
     extend: {},
