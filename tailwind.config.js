@@ -4,19 +4,19 @@ export default {
   theme: {
     colors: {
       // Primary Colors
-      "slider-full-color": "#a5f3eb",
-      "slider": "#10d5c2",
-      "discount": "#feece7",
-      "discount-text": "#ff8c66",
-      "cta-text": "#bdccff",
+      "slider-full-color": "hsl(174, 77%, 80%)",
+      "slider": "hsl(174, 86%, 45%)",
+      "discount": "hsl(14, 92%, 95%)",
+      "discount-text": "hsl(15, 100%, 70%)",
+      "cta-text": "hsl(226, 100%, 87%)",
 
       // Neutral Colors
-      "pricing-component": "#ffffff",
-      "main": "#fafbff",
-      "slider-empty-color": "#eaeefb",
-      "toggle": "#cdd7ee",
-      "txt-color": "#858fad",
-      "cta": "#293356",
+      "pricing-component": "#fff",
+      "main": "hsl(230, 100%, 99%)",
+      "slider-empty-color": "hsl(224, 65%, 95%)",
+      "toggle": "hsl(223, 50%, 87%)",
+      "txt-color": "hsl(225, 20%, 60%)",
+      "cta": "hsl(227, 35%, 25%)",
     },
     extend: {},
   },
